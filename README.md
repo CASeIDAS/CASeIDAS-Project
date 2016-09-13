@@ -3,7 +3,7 @@ Certification Authority Security for EIDAS law
 
 It has been uploaded the branch as an independent project.
 
-In order to create the project from scratch is needed to download the code and create a java project in you IDE (eclispe recommended).
+In order to create the project from scratch it is needed to download the code and create a java project in you IDE (eclipse recommended).
 
 Services provided,
 
