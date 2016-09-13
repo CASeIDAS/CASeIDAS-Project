@@ -11,4 +11,4 @@ Services provided,
                  with the data contained in CA files. It provides the possiblity to validate the authenticity of each CA individually,
                  in order to guarantee the correctness of the whole system.
 
-- CASeIDAS Monitor: a service that creates customize alerts when new Certification Authorities is registered.
+- CASeIDAS Monitor: a service that creates customize alerts when new Certification Authorities are registered.
