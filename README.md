@@ -12,3 +12,7 @@ Services provided,
                  in order to guarantee the correctness of the whole system.
 
 - CASeIDAS Monitor: a service that creates customize alerts when new Certification Authorities are registered. It is provided as a Java                   Thread to be compatible with any kind of Operative System among Linux, Windows and MacOs.
+
+
+
+* Disclaimer: this project is published under GPLv3 Licence following rules available at https://www.gnu.org/licenses/gpl-3.0.html 
