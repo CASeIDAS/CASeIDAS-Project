@@ -17,5 +17,6 @@ Services provided,
 
 
 
-Disclaimer: this project is published under GPLv3 Licence following rules available at    
-https://www.gnu.org/licenses/gpl-3.0.html 
+Disclaimer: this project is published under GPLv3 Licence. 
+
+For more information visit: https://www.gnu.org/licenses/gpl-3.0.html 
